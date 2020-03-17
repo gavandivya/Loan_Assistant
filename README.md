@@ -7,9 +7,9 @@ GridBagLayout is used to place the labels,textfield , buttons and other swing co
 
 This project works in two mode
 
-*It calculates number of payment one should do after entering the Loan amount,Rate of Interest and Monthy Payment(Compute No of Payment)
+* It calculates number of payment one should do after entering the Loan amount,Rate of Interest and Monthy Payment(Compute No of Payment)
 
-*It calculates Monthy payment one have to pay(Compute Payment)
+* It calculates Monthy payment one have to pay(Compute Payment)
 
 On computing one of the above mode output of Compute Payment or No of months is displayed in the TextArea field like detailed information is shown. 
 
