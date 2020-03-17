@@ -12,11 +12,19 @@ The focus is transferred from one field to other textField using Enter and Tab b
 Functions performed
 
 Computing Monthly Payment
+
 Computing Number of Payments
+
 Loan Analysis
+
 New Loan Analysis
+
 Zero Interest Condition
+
 Focus Transfer(Tab)
+
 Input Validation(Numbers)
+
 Confirm Dialog(To notify users about wrong or empty input)
+
 User Messages(Alert user about minimum payment) 
